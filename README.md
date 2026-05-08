@@ -1,6 +1,6 @@
 # master-thesis-ham
 
-Companion repository for the Master's thesis **"Heterogeneous Agent Modelling in Traditional Finance vs. Crypto Markets: Does One Model Rule Them All?"** .
+Companion repository for the Master's thesis **"Heterogeneous Agent Modelling in Traditional Finance vs. Crypto Markets: Does One Model Rule Them All?"** 
 
 The thesis estimates four heterogeneous agent models — Brock & Hommes (1998), Farmer & Joshi (2002), Alfarano *et al.* (2008), and Franke & Westerhoff (2012) — on the S&P 500, Bitcoin, and Ethereum by simulated method of moments (SMM).
 
